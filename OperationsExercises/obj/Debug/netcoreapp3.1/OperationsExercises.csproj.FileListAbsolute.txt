@@ -1,0 +1,14 @@
+/Users/KatelynYaeger/Desktop/repos/OperationsExercises/OperationsExercises/bin/Debug/netcoreapp3.1/OperationsExercises
+/Users/KatelynYaeger/Desktop/repos/OperationsExercises/OperationsExercises/bin/Debug/netcoreapp3.1/OperationsExercises.deps.json
+/Users/KatelynYaeger/Desktop/repos/OperationsExercises/OperationsExercises/bin/Debug/netcoreapp3.1/OperationsExercises.runtimeconfig.json
+/Users/KatelynYaeger/Desktop/repos/OperationsExercises/OperationsExercises/bin/Debug/netcoreapp3.1/OperationsExercises.runtimeconfig.dev.json
+/Users/KatelynYaeger/Desktop/repos/OperationsExercises/OperationsExercises/bin/Debug/netcoreapp3.1/OperationsExercises.dll
+/Users/KatelynYaeger/Desktop/repos/OperationsExercises/OperationsExercises/bin/Debug/netcoreapp3.1/OperationsExercises.pdb
+/Users/KatelynYaeger/Desktop/repos/OperationsExercises/OperationsExercises/obj/Debug/netcoreapp3.1/OperationsExercises.csproj.AssemblyReference.cache
+/Users/KatelynYaeger/Desktop/repos/OperationsExercises/OperationsExercises/obj/Debug/netcoreapp3.1/OperationsExercises.GeneratedMSBuildEditorConfig.editorconfig
+/Users/KatelynYaeger/Desktop/repos/OperationsExercises/OperationsExercises/obj/Debug/netcoreapp3.1/OperationsExercises.AssemblyInfoInputs.cache
+/Users/KatelynYaeger/Desktop/repos/OperationsExercises/OperationsExercises/obj/Debug/netcoreapp3.1/OperationsExercises.AssemblyInfo.cs
+/Users/KatelynYaeger/Desktop/repos/OperationsExercises/OperationsExercises/obj/Debug/netcoreapp3.1/OperationsExercises.csproj.CoreCompileInputs.cache
+/Users/KatelynYaeger/Desktop/repos/OperationsExercises/OperationsExercises/obj/Debug/netcoreapp3.1/OperationsExercises.dll
+/Users/KatelynYaeger/Desktop/repos/OperationsExercises/OperationsExercises/obj/Debug/netcoreapp3.1/OperationsExercises.pdb
+/Users/KatelynYaeger/Desktop/repos/OperationsExercises/OperationsExercises/obj/Debug/netcoreapp3.1/OperationsExercises.genruntimeconfig.cache
